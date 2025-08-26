@@ -12,7 +12,7 @@ const experiences = [
     id: "2",
     title: "Freelancing",
     href: "https://github.com/aniismess",
-    date: "June 2025 - Presen",
+    date: "June 2025 - Present",
   },
   {
     id: "3",
