@@ -55,7 +55,7 @@ export const Main = () => {
       </div>
 
       <p className="mb-2">
-        20 y/o cs grad. Shitposting {" "}
+        20 y/o cs grad. I mostly code out of passion. I learn and adapt quickly.{" "}
         <a
           href="https://github.com/aniismess"
           target="_blank"
@@ -68,7 +68,7 @@ export const Main = () => {
         {}
       </p>
 
-      <p>{`I make stuff for fun. Shoutout to Basketball and Studying bout niche things.`}</p>
+      <p>{`Views are my own and dont reflect any organisation. Shoutout to Basketball and Studying bout niche things.`}</p>
 
       
     </section>
