@@ -55,14 +55,14 @@ export const Main = () => {
       </div>
 
       <p className="mb-2">
-        20 y/o cs grad. I mostly code out of passion. I learn and adapt quickly. I post a lot{" "}
+        20 y/o cs grad. I mostly code out of passion. I learn and adapt quickly. I post a lot at{" "}
         <a
           href="https://github.com/aniismess"
           target="_blank"
           rel="noopener noreferrer"
           className="underline decoration-dashed underline-offset-[5px]"
         >
-          at Github
+          Github
         </a>
         {" "}.
         {}
