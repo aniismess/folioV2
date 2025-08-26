@@ -55,7 +55,7 @@ export const Main = () => {
       </div>
 
       <p className="mb-2">
-        20 y/o cs grad. I mostly code out of passion. I learn and adapt quickly.{" "}
+        20 y/o cs grad. I mostly code out of passion. I learn and adapt quickly. I post a lot{" "}
         <a
           href="https://github.com/aniismess"
           target="_blank"
