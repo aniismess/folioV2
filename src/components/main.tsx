@@ -57,7 +57,7 @@ export const Main = () => {
       <p className="mb-2">
         20 y/o cs grad. Shitposting {" "}
         <a
-          href="https://www.wipro.com"
+          href="https://github.com/aniismess"
           target="_blank"
           rel="noopener noreferrer"
           className="underline decoration-dashed underline-offset-[5px]"
