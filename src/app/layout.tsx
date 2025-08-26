@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Animesh Mishra",
     openGraph: {
       title: "Animesh | Profile",
-      description: "Explore Animesh's profile - projects. Backend Developer in the Metadata Function",
+      description: "Explore Animesh's profile - projects. Backend Developer ",
       url: "https://deiselman.vercel.app",
       siteName: "Animesh's Portfolio",
       images: [
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     twitter: {
       card: "summary_large_image",
       title: "Animesh | Profile",
-      description: "Explore Animesh's profile - projects. Backend Developer in the Metadata Function",
+      description: "Explore Animesh's profile - projects. Backend Developer ",
       images: ["https://deiselman.vercel.app/og-image.png"],
     },
 };
