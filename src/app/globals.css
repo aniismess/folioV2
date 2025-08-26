@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-surface: var(--surface);
+  --font-newType: var(--font-newType);
+  --font-jetbrains-mono: var(--font-jetbrains-mono);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #2f2f2f;
+  --secondary-foreground: rgb(92, 92, 92);
+  --surface: #EBEBEB;
+}
+
+.dark {
+  --background: #111111;
+  --foreground: #d0d0d0;
+  --secondary-foreground: rgb(163 163 163);
+  --surface: #141414;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111111;
+    --foreground: #d0d0d0;
+    --secondary-foreground: rgb(163 163 163);
+    --surface: #141414
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-diatype); /* Default sans-serif font */
+}
+
+.font-mono {
+  font-family: var(--font-jetbrains-mono); /* JetBrains Mono for monospace elements */
+}
